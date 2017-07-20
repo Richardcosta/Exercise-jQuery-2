@@ -1,1 +1,0 @@
-# Exercise-jQuery-2
